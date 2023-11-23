@@ -1,1 +1,2 @@
+# Workshop
 Template of workshop.
